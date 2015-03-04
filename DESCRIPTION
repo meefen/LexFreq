@@ -1,0 +1,8 @@
+Package: LexFreq
+Title: Compute Lexical Frequency measures for text.
+Version: 0.0.0.1
+Authors@R: person("Bodong", "Chen", , "bodong.chen@gmail.com", role = c("aut", "cre"))
+Description: This package compute Lexical Frequency measures for text. Measures include: Lexical frequency measures defined in Lexical Frequency Profile defined by Laufer (1994) and P_Lex defined by Meara & Bell (2001). These measures can be used to assess complexity of writing in terms of used vocabulary.
+Depends: R (>= 3.0.2)
+License: GPL 2.0
+LazyData: true
